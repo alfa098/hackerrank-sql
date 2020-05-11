@@ -5,6 +5,7 @@
 SELECT DISTINCT city
 FROM station
 WHERE LEFT(city, 1) IN ('A', 'E', 'I', 'O', 'U');
+ORDER BY city ASC; 
 
 -- Alternative
 
