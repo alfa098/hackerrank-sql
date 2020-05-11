@@ -4,10 +4,10 @@
 
 SELECT DISTINCT city 
 FROM station 
-WHERE mod(ID,2)=0;
+WHERE mod(id,2) = 0;
 
 -- Alternative
 
 SELECT DISTINCT City
 FROM Station
-WHERE Id % 2 = 0;
+WHERE id % 2 = 0;
