@@ -1,2 +1,2 @@
 # hackerrank-sql
-HackerRank SQL Solution
+This repo will include some of my solutions to HackerRank SQL Problem Queries
